@@ -2,7 +2,7 @@
 	"en":{
 		"lang-name":"English",
 		"header-title":"Guild Wars 2 Timer",
-		"header-subtitle":"2014 Feature Pack updated world bosses time table.",
+		"header-subtitle":"Click a boss to mark it off until the next daily reset.",
 		"nav-note":"Note",
 		"wbname-title":"World Boss",
 		"localtime-title":"Local Time",
@@ -13,7 +13,7 @@
 		"note-content":[
 		"<li>Current event is marked as red background and \"<span class=\"note-red\">New</span>\" text.</li>",
 		"<li>Hover on one World Boss event will also <span class=\"note-hover\">highlight</span> all the same event on the whole time table.</li>",
-		"<li>Colours on World Boss name are the scale of event <a href=\"https://www.guildwars2.com/en/news/the-megaserver-system-world-bosses-and-events/\" target=\"_blank\">announced by official</a>:",
+		"<li>Colours on World Boss name are the scale of event <a href=\"https://www.guildwars2.com/en/news/the-megaserver-system-world-bosses-and-events/\" target=\"_blank\">based on the official post</a>:",
 		"<ul>",
 			"<li><span class=\"note-green\">Greens</span> are <span class=\"note-underline\">Low-Level World Events</span>.</li>",
 			"<li>Blacks are <span class=\"note-underline\">Standard World Events</span>.</li>",
