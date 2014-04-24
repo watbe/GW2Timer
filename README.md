@@ -1,6 +1,10 @@
 # GW2 Timer #
 *2014 Feature Pack updated world bosses time table.*
 
+Changes from Howar31:
+
+Changed to enable nicer embedding on a dark background - specifically for http://sosgw2.com/timer 
+
 GW2 Timer: [http://howar31.github.io/GW2Timer/](http://howar31.github.io/GW2Timer/)
 
 -
