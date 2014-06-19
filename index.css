@@ -120,16 +120,16 @@ body {
 	width: 100%;
 }
 
-.scale-lowlevel > .wbname,
+.scale-lowlevel > .wbframe,
 .note-green {
 	color: #afa;
 	text-shadow: 0px 0px 20px #AAFFAA;
 }
 
-.scale-standard > .wbname {
+.scale-standard > .wbframe {
 }
 
-.scale-hardcore > .wbname,
+.scale-hardcore > .wbframe,
 .note-red {
 	color: #faa;
 	text-shadow: 0px 0px 20px #FFAAAA;
@@ -138,7 +138,7 @@ body {
 .hiddenvalue {
 }
 
-.wbname {
+.wbframe {
 	cursor: pointer;
 	white-space: nowrap;
 }
